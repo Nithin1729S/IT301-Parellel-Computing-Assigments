@@ -1,5 +1,5 @@
 *
-Past Year/
+
 
 # But not .cpp
 !*.cpp
@@ -11,6 +11,9 @@ Past Year/
 !*.py
 !*.pdf
 !*.odt
+!/*
 !.gitignore
 !README.md
 !*.txt
+
+Past Year/
