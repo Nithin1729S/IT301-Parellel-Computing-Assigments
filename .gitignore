@@ -10,8 +10,9 @@
 !*.js
 !*.py
 !*.pdf
-!*.odt
 !/*
+!*.png
+!*.csv
 !.gitignore
 !README.md
 !*.txt
