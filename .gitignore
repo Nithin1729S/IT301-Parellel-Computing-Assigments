@@ -13,8 +13,10 @@
 !/*
 !*.png
 !*.csv
+!*.ipynb
 !.gitignore
 !README.md
 !*.txt
 
 Past Year/
+.ipynb_checkpoints/
